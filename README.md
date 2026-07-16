@@ -39,8 +39,8 @@
 
 ## 🌐 Connect with me
 
-[LinkedIn](https://linkedin.com/in/...)
+[LinkedIn](www.linkedin.com/in/are-montero-953a96207)
 
 [Portfolio](https://...)
 
-Email: tucorreo@gmail.com
+Email: arelys.montero.it@gmail.com
