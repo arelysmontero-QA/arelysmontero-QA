@@ -19,18 +19,26 @@
 
 ### Languages
 Java • C# • JavaScript • SQL • Python
+<p>
+<img src="https://skillicons.dev/icons?i=java,c#,js,python" />
+</p>
 
 ### Frontend
 HTML • CSS • Bootstrap • React
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,boostrap,react" />
+</p>
 
 ### Backend
 .NET • Node.js • Prisma • MySQL • SQL Server
+<p>
+<img src="https://skillicons.dev/icons?i=.net,nodejs,prisma,mysql,sqlserver" />
+</p>
 
 ### Tools
 Git • GitHub • VS Code • Visual Studio • Postman
-
 <p>
-<img src="https://skillicons.dev/icons?i=java,cs,js,html,css,react,nodejs,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
 </p>
 
 ## 📊 GitHub Stats
