@@ -34,7 +34,7 @@
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,playrwight" />
 </p>
 
 ## 🌐 Connect with me
