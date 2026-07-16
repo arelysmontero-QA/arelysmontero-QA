@@ -37,14 +37,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
 </p>
 
-/*## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight)*/
-
 ## 🌐 Connect with me
 
 [LinkedIn](https://linkedin.com/in/...)
