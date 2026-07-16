@@ -20,7 +20,7 @@
 ### Languages
 Java • C# • JavaScript • SQL • Python
 <p>
-<img src="https://skillicons.dev/icons?i=java,c#,js,python" />
+<img src="https://skillicons.dev/icons?i=java,c#,js,sql,python" />
 </p>
 
 ### Frontend
