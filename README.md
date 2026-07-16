@@ -17,28 +17,26 @@
 
 ## 🛠 Tech Stack
 
+## 🛠 Tech Stack
+
 ### Languages
-Java • C# • JavaScript • SQL • Python
 <p>
-<img src="https://skillicons.dev/icons?i=java,c#,js,sql,python" />
+  <img src="https://skillicons.dev/icons?i=java,cs,js,python" />
 </p>
 
 ### Frontend
-HTML • CSS • Bootstrap • React
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,boostrap,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 </p>
 
 ### Backend
-.NET • Node.js • Prisma • MySQL • SQL Server
 <p>
-<img src="https://skillicons.dev/icons?i=.net,nodejs,prisma,mysql,sqlserver" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql" />
 </p>
 
 ### Tools
-Git • GitHub • VS Code • Visual Studio • Postman
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
 </p>
 
 ## 📊 GitHub Stats
