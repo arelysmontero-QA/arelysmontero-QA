@@ -1,6 +1,6 @@
 # Hi 👋, I'm Arelys Montero
 
-### 💻 Business Informatics Student | Software Developer | QA Enthusiast
+### 💻 Business Informatics Student | Software Developer | QA Engineer
 
 ---
 
