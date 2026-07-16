@@ -17,8 +17,6 @@
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 ### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,cs,js,python" />
@@ -31,7 +29,7 @@
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql,sql" />
 </p>
 
 ### Tools
